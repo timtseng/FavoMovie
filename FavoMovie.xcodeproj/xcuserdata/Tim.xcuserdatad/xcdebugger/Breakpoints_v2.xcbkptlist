@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FavoMovie/EditTableViewController.swift"
+            timestampString = "524332354.402024"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "EditTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FavoMovie.EditTableViewController.editNameField.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "FavoMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tim/Desktop/iOS/Peter%20Course/class/Favomovie/FavoMovie/FavoMovie/EditTableViewController.swift"
+                  timestampString = "524327276.070125"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FavoMovie.EditTableViewController.editNameField.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "FavoMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tim/Desktop/iOS/Peter%20Course/class/Favomovie/FavoMovie/FavoMovie/EditTableViewController.swift"
+                  timestampString = "524327276.077419"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FavoMovie.EditTableViewController.init(style: __C.UITableViewStyle) -&gt; FavoMovie.EditTableViewController"
+                  moduleName = "FavoMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tim/Desktop/iOS/Peter%20Course/class/Favomovie/FavoMovie/FavoMovie/EditTableViewController.swift"
+                  timestampString = "524327276.091829"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "33">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FavoMovie.EditTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; FavoMovie.EditTableViewController"
+                  moduleName = "FavoMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tim/Desktop/iOS/Peter%20Course/class/Favomovie/FavoMovie/FavoMovie/EditTableViewController.swift"
+                  timestampString = "524327276.116817"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FavoMovie.EditTableViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;FavoMovie.EditTableViewController&gt;"
+                  moduleName = "FavoMovie"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tim/Desktop/iOS/Peter%20Course/class/Favomovie/FavoMovie/FavoMovie/EditTableViewController.swift"
+                  timestampString = "524327276.131249"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
